@@ -27,3 +27,6 @@ python3.x pythonCowObfuscator.py -s file_to_obfuscate.py
 - Valentina Ceoletta valentina.ceoletta@studenti.univr.it
 - Mattia Zanotti mattia.zanotti@studenti.univr.it
 - Nicolò Zenari nicolo.zenari@studenti.univr.it
+
+## Valutazione
+30 e Lode
